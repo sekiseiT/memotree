@@ -1,0 +1,30 @@
+* {
+  background-color: gray;
+  color: aliceblue;
+}
+
+.topname-wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+
+.subjectname {
+  /* display: grid; */
+  text-align: center;
+  border: 1px solid red;
+  margin: auto;
+  width: 200px;
+  height: 100px;
+}
+
+.input_text {
+  display: inline;
+  justify-content: center;
+  align-items: center;
+}
+
+.add_button {
+  display: inline;
+}
